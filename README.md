@@ -1,4 +1,4 @@
-[![](https://github.com/TechTutoPPT/-Turn-TV-Box-Into-Mini-PC/blob/main/IMG_8263.jpg)](https://youtu.be/AHhOXTfAEwo)
+[![](https://github.com/TechTutoPPT/-Turn-TV-Box-Into-Mini-PC/blob/main/IMG_8263.jpg)](https://youtu.be/7c2HJU334oo)
 
 手上有部電視盒子(Allwinner sun50iw6 4核心 Cortex-A53(SoC), 4GB RAM, 32GB ROM, Android 7.0 預設已Root), 
 由於年代久遠, 內置的影音平台已不再提供服務, 一直想找方法將它刷成Linux系統但至令未果, 假如有高人能指教在下萬分感激!
